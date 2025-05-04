@@ -4,20 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanputta14&label=Profile%20views&color=0e75b6&style=flat" alt="pavanputta14" /> </p>
 
 - 🌱 I’m currently learning **NodeJs**
-
 - 💬 Ask me about **react**
-
 - 📧 How to reach me **puttapavan555@gmail.com**
-
 - ⚡ Fun fact **I have a better relationship with my keyboard than my phone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pavan-putta-84ba3528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan putta" height="30" width="40" /></a>
-<a href="https://instagram.com/_pavan_putta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pavan_putta_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Pavan_Putta_5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Pavan_Putta_5454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/pavan-putta-84ba3528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan putta" height="30" width="40" /></a>
+  <a href="https://instagram.com/_pavan_putta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pavan_putta_" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/Pavan_Putta_5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Pavan_Putta_5454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -53,8 +49,11 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
 </p>
 
+<h3 align="left">Recent Projects:</h3>
+<p align="left" id="projects">
+  <!-- Dynamic content will be added here -->
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanputta14&show_icons=true&locale=en&layout=compact" alt="pavanputta14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanputta14&show_icons=true&locale=en" alt="pavanputta14" /></p>
-
-
