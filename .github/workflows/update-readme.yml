@@ -1,0 +1,45 @@
+name: Update README with Latest Projects
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest repositories
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const username = 'pavanputta14';
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: 'updated',
+              per_page: 5,
+            });
+
+            const projectList = repos.map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description'}`).join('\n');
+
+            const fs = require('fs');
+            const path = './README.md';
+            const readme = fs.readFileSync(path, 'utf8');
+
+            const updated = readme.replace(
+              /<p align="left" id="projects">[\s\S]*?<\/p>/,
+              `<p align="left" id="projects">\n\n${projectList}\n\n</p>`
+            );
+
+            fs.writeFileSync(path, updated);
+      
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated recent projects" || echo "No changes"
+          git push
