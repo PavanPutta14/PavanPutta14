@@ -77,13 +77,7 @@
 
 ---
 
-### 📂 Recent Projects
 
-<p align="left" id="projects">
-  <!-- 🔄 Dynamic content injected by GitHub Action -->
-</p>
-
----
 
 ### 📊 GitHub Stats
 
