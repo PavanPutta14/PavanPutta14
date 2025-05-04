@@ -1,29 +1,49 @@
-<h1 align="center">Hi 👋, I'm Pavan Putta</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanputta14&label=Profile%20views&color=0e75b6&style=flat" alt="pavanputta14" /> </p>
+<h1 align="center">👋 Hello, I'm Pavan Putta</h1>
+<h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **NodeJs**
-- 💬 Ask me about **react**
-- 📧 How to reach me **puttapavan555@gmail.com**
-- ⚡ Fun fact **I have a better relationship with my keyboard than my phone.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavan-putta-84ba3528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan putta" height="30" width="40" /></a>
-  <a href="https://instagram.com/_pavan_putta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pavan_putta_" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/Pavan_Putta_5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Pavan_Putta_5454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavan_putta_5454" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="coding" width="400" />
 </p>
 
-<h3 align="left">Languages:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanputta14&label=Profile%20views&color=0e75b6&style=flat" alt="pavanputta14" />
+</p>
+
+---
+
+### 🧑‍🎓 About Me
+
+- 🌱 Currently learning **Node.js** to build scalable web applications.
+- ⚛️ Passionate about **React** and frontend development.
+- 💬 Ask me anything about web technologies, especially **React**.
+- 📫 Reach me at: **puttapavan555@gmail.com**
+- ⚡ Fun fact: I have a better relationship with my **keyboard** than my **phone**.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan-putta-84ba3528b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32"/></a>
+  <a href="https://instagram.com/_pavan_putta_" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="32"/></a>
+  <a href="https://www.hackerrank.com/profile/Pavan_Putta_5454" target="_blank"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+  <a href="https://leetcode.com/u/Pavan_Putta_5454/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="32"/></a>
+</p>
+
+---
+
+### 💻 Languages I Use
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </p>
 
-<h3 align="left">Tools & Frameworks:</h3>
+---
+
+### ⚙️ Tools & Frameworks
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
@@ -33,7 +53,10 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="48"/>
 </p>
 
-<h3 align="left">Web Programming:</h3>
+---
+
+### 🌐 Web Technologies
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -43,17 +66,31 @@
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 </p>
 
-<h3 align="left">Databases:</h3>
+---
+
+### 🗄️ Databases
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
 </p>
 
-<h3 align="left">Recent Projects:</h3>
+---
+
+### 📂 Recent Projects
+
 <p align="left" id="projects">
-  <!-- Dynamic content will be added here -->
+  <!-- 🔄 Dynamic content injected by GitHub Action -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanputta14&show_icons=true&locale=en&layout=compact" alt="pavanputta14" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanputta14&show_icons=true&locale=en" alt="pavanputta14" /></p>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanputta14&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavanputta14&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
