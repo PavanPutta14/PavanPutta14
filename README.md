@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Pavan Putta</h1>
 <h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
-
+<br><br>
 <p align="center">
-  <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="coding" width="400" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1065724672/thumb/1.jpg?ip=x480" alt="coding" width="400" />
 </p>
 
 <p align="center">
