@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 <br><br>
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/1065724672/thumb/1.jpg?ip=x480" alt="coding" width="400" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.V0ZEADNP_XmfjkGJNzOlRgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" alt="coding" width="400" />
 </p>
 
 <p align="center">
